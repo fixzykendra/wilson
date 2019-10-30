@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>WELCOME DEAREST</title>
+<marquee>FIXZY WAS HERE</marquee>
+<h1 align="center"WELCOME TO WILSTECH</h1>
+
+</head>
+<body bgcolor="green">
+<ol>
+<li>COMPUTER FIXZY</li>
+<li>HELLO KENDRA</>
+</ol>
+<img src="image/1.jpg"width= 400rem height= 400rem> <br> <br> <br>
+<img src="image/2.jpg"width=400rem height= 400rem> <br> <br> <br>
+
+
+
+
+
+
+</body>
+</html>
